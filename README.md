@@ -9,5 +9,12 @@ ss 参数：https://github.com/shadowsocks/shadowsocks-libev
 参考scripts
 
 ## more：
-docker pull
+宿主机开启魔改bbr加速
 
+```shell
+wget --no-check-certificate https://raw.githubusercontent.com/tcp-nanqinlang/general/master/General/CentOS/bash/tcp_nanqinlang-1.3.2
+```
+
+```shell
+bash tcp_nanqinlang-1.3.2.sh
+```
